@@ -1,0 +1,5 @@
+{
+  "name": "Data Science Take-Home Lab",
+  "description": "An interactive environment for cleaning e-commerce event data, performing aggregations, and generating visual insights for a data science intern assessment.",
+  "requestFramePermissions": []
+}
